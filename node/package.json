@@ -8,7 +8,7 @@
         "email": "meyersi@amazon.com"
     },
     "dependencies": {
-        "async": "2.6.1",
+        "async": "2.6.4",
         "protobufjs": "6.9.0",
         "minimist": ">=0.2.1"
     },
